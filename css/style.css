@@ -4672,25 +4672,6 @@ img{
 	background-color: #011a55;
 }
 
-.main-footer:before{
-	position:absolute;
-	content:'';
-	left:0px;
-	bottom:0px;
-	width:543px;
-	height:368px;
-	background:url(../images/icons/footer-pattern-2.png) no-repeat;
-}
-
-.main-footer:after{
-	position:absolute;
-	content:'';
-	right:0px;
-	top:0px;
-	width:505px;
-	height:334px;
-	background:url(../images/icons/footer-pattern-1.png) no-repeat;
-}
 
 .main-footer .footer-widget{
 	position:relative;
