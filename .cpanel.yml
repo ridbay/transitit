@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/transitit/public_html/dev
+    - export DEPLOYPATH=/home/transitit/public_html
     - /bin/cp -R * $DEPLOYPATH
